@@ -1,8 +1,8 @@
 Bitácora de comando – Módulo 2 Semana 1 Día 4
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:hailer duvan julio palomino
+Fecha:06/06/2026
+Nombre de la rama:duvan_palomino
 
 Comando nuevo del día:
 npm run api
@@ -11,39 +11,39 @@ Escribe los comandos que usaste durante la práctica.
 
 1. Comando usado para clonar el repositorio:
 
-Respuesta:
+Respuesta:git clone
 
 2. Comando usado para entrar a la carpeta del proyecto:
 
-Respuesta:
+Respuesta:cd
 
 3. Comando usado para crear tu rama personal:
 
-Respuesta:
+Respuesta:git checkout -b nombre_de_la_rama
 
 4. Comando usado para verificar la rama:
 
-Respuesta:
+Respuesta:git branch
 
 5. Comando usado para instalar dependencias:
 
-Respuesta:
+Respuesta:git install
 
 6. Comando usado para levantar la API:
 
-Respuesta:
+Respuesta:npm run api
 
 7. Dirección abierta en el navegador:
 
-Respuesta:
+Respuesta:http://localhost:3000
 
 8. Ruta usada para consultar propuestas:
 
-Respuesta:
+Respuesta:GET /api/propuestas
 
 9. Ruta usada para enviar propuestas:
 
-Respuesta:
+Respuesta:POST /api/propuestas
 
 10. Prueba realizada con campo vacío:
 
@@ -55,16 +55,16 @@ Respuesta:
 
 12. Comando usado para revisar cambios en Git:
 
-Respuesta:
+Respuesta:git status
 
 13. Comando usado para agregar cambios:
 
-Respuesta:
+Respuesta:git add .
 
 14. Comando usado para crear commit:
 
-Respuesta:
+Respuesta:git commit -m
 
 15. Comando usado para publicar la rama:
 
-Respuesta:
+Respuesta:git push -u origin nombre_de_la_rama
